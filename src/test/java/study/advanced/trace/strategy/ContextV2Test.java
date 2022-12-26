@@ -2,10 +2,10 @@ package study.advanced.trace.strategy;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
-import study.advanced.trace.hellotrace.strategy.ContextV2;
-import study.advanced.trace.hellotrace.strategy.Strategy;
-import study.advanced.trace.hellotrace.strategy.StrategyLogic1;
-import study.advanced.trace.hellotrace.strategy.StrategyLogic2;
+import study.advanced.trace.strategy.code.strategy.ContextV2;
+import study.advanced.trace.strategy.code.strategy.Strategy;
+import study.advanced.trace.strategy.code.strategy.StrategyLogic1;
+import study.advanced.trace.strategy.code.strategy.StrategyLogic2;
 
 @Slf4j
 public class ContextV2Test {

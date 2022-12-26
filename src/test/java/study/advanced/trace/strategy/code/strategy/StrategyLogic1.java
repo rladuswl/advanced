@@ -1,4 +1,4 @@
-package study.advanced.trace.hellotrace.strategy;
+package study.advanced.trace.strategy.code.strategy;
 
 import lombok.extern.slf4j.Slf4j;
 
