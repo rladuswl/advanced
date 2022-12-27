@@ -7,6 +7,8 @@ import study.advanced.trace.callback.TraceCallback;
 import study.advanced.trace.callback.TraceTemplate;
 import study.advanced.trace.logtrace.LogTrace;
 
+// 템플릿 메서드 패턴과 콜백 패턴 끝 - v5
+
 @RestController // @Controller + @ResponseBody
 public class OrderControllerV5 {
 
